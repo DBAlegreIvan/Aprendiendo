@@ -1,2 +1,3 @@
 # Aprendiendo
-Practicando algunas veces. 
+Practicando algunas veces.
+Esto lo hace incluso una IA, espero no abandonar esto...
